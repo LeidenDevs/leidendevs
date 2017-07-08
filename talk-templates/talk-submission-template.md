@@ -11,7 +11,7 @@ _Long-form talks should be 20-30 minutes long and you should plan to have slides
 ## Speaker: \<Your Name\>
 
 _Include a link to your [github profile](https://github.com/pdxnode/), and it'd be cool if you 
-embedded your avatar. What do you do for a living? How do you use Node? Include your twitter handle, if
+embedded your avatar. What do you do for a living? Include your twitter handle, if
 applicable._
 
 _Why is this talk relevant to what you do? How did you come across this topic?_
