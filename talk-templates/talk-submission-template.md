@@ -4,7 +4,7 @@ _A 2-5 sentence description of the talk. If you've got a long demo of a bunch of
 it should be a long-form talk. Be prepared to accept questions at the end of the talk!_
 
 _Your aim is to get the audience interested in the topic, and to include any relevant material that'll
-pique their interest. Your talk doesn't necessarily have to be Node.js specific, we love it when people care deeply about their topic and are excited to share!_
+pique their interest._
 
 _Long-form talks should be 20-30 minutes long and you should plan to have slides. Also be ready for a few minutes of questions immediately following._
 
