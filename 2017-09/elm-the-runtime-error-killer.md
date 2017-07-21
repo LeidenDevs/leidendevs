@@ -1,11 +1,11 @@
-## \<Elm, the runtime error killer\>
+##<Elm, the runtime error killer
 
 Runtime errors, we all know them and we all dislike them. Luckily why we now have Elm. Elm represents simplicity, pure functional programming and clearly indicated error descriptions. With Elm you discover a complete new way to approach frontend programming.
 
 Expected duration: 30-35 minutes
 Exluding time for questions, but i am open for questions :)
 
-## Speaker: \<Jordy Moos\>
+## Speaker: Jordy Moos
 
 ![me](./jordy-moos.jpg)
 
