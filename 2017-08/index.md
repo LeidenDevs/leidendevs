@@ -13,6 +13,8 @@ Agenda:
   - Learning, meeting new people and having fun
 - talk
 
+Slides: https://docs.google.com/presentation/d/15_6xj3niHeEBiyMTDWeKAo9Jx38zxQkj-BVZo-aqZ58/edit?usp=sharing
+
 Retrospective
 ===
 
