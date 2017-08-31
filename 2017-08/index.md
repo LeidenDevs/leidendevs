@@ -15,6 +15,10 @@ Agenda:
 
 Slides: https://docs.google.com/presentation/d/15_6xj3niHeEBiyMTDWeKAo9Jx38zxQkj-BVZo-aqZ58/edit?usp=sharing
 
+Info
+===
+- cost for the sponsor for food and drinks: 180 euros (for 30 servings)
+
 Retrospective
 ===
 
