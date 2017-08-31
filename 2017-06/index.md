@@ -8,6 +8,7 @@
 * Stefano kicked off our first meetup with his introduction GraphQL.
 * Lots of engagement and questions after the talk.
 * ~20 attendees
+* expense for the sponsor, for food and drinks: a bit less than 250 euros
 
 ## Presenter
 
